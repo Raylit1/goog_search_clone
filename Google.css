@@ -1,0 +1,77 @@
+body {
+			font-family:"Open Sans";
+			color:grey;
+}
+.logo {
+     margin:10px;
+	 float:left;
+}
+.searchForm {
+
+}
+a {text-decoration:none;
+	}
+
+.searchBar {
+    border: 0;
+    border-radius: 30px;
+    box-shadow: 2px 2px 7px;
+    width: 700px;
+    height: 45px;
+	margin-top:30px;
+	margin-left:30px;
+}
+hr { width:100%;
+	
+ }
+.navigationOne{ clear:both;
+				margin-left:150px;
+}
+.navigationOne > a > img {
+		margin:0 6px 0 6px;
+} 
+
+.navigationOne > a {
+		text-decoration:none;
+		color:#000;
+} 
+
+.mainPage {
+margin-left:150px;
+}
+
+.first_section  { margin-bottom:3px;}
+.second_section  { margin-top:2px;}
+
+
+.navigationTwo > a  {
+		text-decoration:none;
+      border-radius: 30px;
+      background-color: lightblue;
+      padding: 10px 15px;
+	  color:blue;
+}
+
+.picGrid {
+	width:501px; 
+	height:312px;
+	margin-top:30px; 
+	margin-right:0px;}
+
+.sub-picGrid {
+	
+}
+.gridTwo { 
+			position:relative;
+			top:-312px;
+			left:500px;
+			width:600px;
+			height:312px;
+			margin-left:40px;
+}
+b {color:#000;}
+h1,h2,h3 {color:#000;}
+
+span {font-size:1.7em;}
+
+footer > nav > a {margin:10px;}
